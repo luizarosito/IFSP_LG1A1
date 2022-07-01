@@ -9,6 +9,7 @@ int main ()
   gastosFevereiro = 25000;
   gastosMarco = 30000;
   gastosTrimestre = (gastosJaneiro + gastosFevereiro + gastosMarco);
+  
   printf("%d", gastosTrimestre);
   
   return 0;
