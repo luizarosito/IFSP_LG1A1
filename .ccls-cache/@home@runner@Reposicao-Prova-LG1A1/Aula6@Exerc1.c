@@ -1,0 +1,1 @@
+// O exerćicio 6 não da para ser desenvolido, pois travaria a máquina para realizar a contagem
