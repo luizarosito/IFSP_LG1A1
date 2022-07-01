@@ -1,1 +1,1 @@
-// O exerćicio 6 não da para ser desenvolido, pois travaria a máquina para realizar a contagem
+//Para realizar a contagem seria necessário utilizar um for, mas como não foi passado o número de quadros do tabuleiro de xadrez, a contagem seria infinita, travando a execução.
